@@ -9,7 +9,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:  
 
     ```
-    git clone https://github.com/vaibhavharsoda/Registration-login-and-CRUD-action-using-React-js.git    
+   
     ```  
     ```
     cd Registration-login-and-CRUD-action-using-React-js
